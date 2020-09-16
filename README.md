@@ -22,4 +22,4 @@ The juice bar idea came naturally for me, as i was passing by a deserted house, 
 Improve furthermore as you see fit, either with other ideas, or add to this.
 
 ### If you want to contribute and trust me that i'll do what i believe is right, with the funds, feel free to use the ERC20 wallet below. Ethereum and any ERC20 token can go in.
-### ERC20 wallet: 0xf4a53b6bb9e4ec51e7831e0d7a06d5d404391824
+### ERC20 wallet: 0xC5f5cd9ab386376AAB97561357342A03dd626AAD
